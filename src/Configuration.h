@@ -84,8 +84,8 @@ const Internet_cnn_type NET_DEF_CNN_TYPE = it_none;
 #define LCD_ROWS                   4                       //
 #define LCD_BACKLIGHT_ENABLED      1                       // Set the LCD backlight screen to on/off
 #define LCD_CONTRAST               127                     // Set the contrast value of the display (0-255)
-#define LCD_INIT_MSG_L1            "   OpenSpirulina"      // Start message that will be displayed on the screen
-#define LCD_INIT_MSG_L2            "   -------------"      //
+#define LCD_INIT_MSG_L1            "  Spirumetric "      // Start message that will be displayed on the screen
+#define LCD_INIT_MSG_L2            "    Station   "      //
 #define LCD_INIT_MSG_L3            ""                      //
 #define LCD_INIT_MSG_L4            OPENSPIRULINA_VER       //
 #define LCD_INIT_TIMEOUT           5000                    // Time that the start message is displayed
